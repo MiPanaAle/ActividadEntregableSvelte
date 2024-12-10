@@ -108,7 +108,6 @@
 
   .negro{
     background-color: black;
-
   }
 
 </style>
